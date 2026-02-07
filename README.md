@@ -637,10 +637,3 @@ redis-cli ping
    - Verify emails still send  
 ✅ Show Ethereal preview URLs  
 
-## 📄 License
-
-MIT License - feel free to use this project for learning and interviews.
-
----
-
-Built with ❤️ for ReachInbox Assignment
